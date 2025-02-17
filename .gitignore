@@ -8,3 +8,5 @@ objects/
 permissonsets/
 staticresources/
 tabs/
+lwc/test1/
+lwc/simpleChildComp/
